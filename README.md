@@ -1,50 +1,86 @@
 # HospitalRoster
+📝 Description
 The Hospital Roster Application is a comprehensive scheduling system designed for healthcare facilities to manage staff shifts, department assignments, and work schedules efficiently. This full-stack application features:
 
 .NET Core 7/8 API backend with JWT authentication
+
 Angular 19 frontend with responsive UI
+
 SQL Server database for data persistence
+
 ASP.NET Core Identity for user management
+
 Role-based access control for different staff types
+
 The application helps hospital administrators:
+
 Create and manage staff schedules
+
 Assign shifts to doctors, nurses, and other healthcare professionals
+
 Track department staffing needs
+
 Approve/reject shift requests
+
 Generate reports on staff availability
 
 🚀 Features
 Core Functionality
 User Authentication & Authorization
+
 JWT-based secure login
+
 Role-based access (Admin, Doctor, Nurse, Staff)
+
 Password reset functionality
+
 Roster Management
+
 Monthly/weekly shift views
+
 Drag-and-drop shift assignment
+
 Shift swapping requests
+
 Approval workflow
+
 Staff Management
+
 Add/edit staff profiles
+
 Department assignments
+
 Leave management
+
 Reporting
+
 Staff workload analysis
+
 Department coverage reports
+
 Export to PDF/Excel
+
 Technical Highlights
 Clean architecture with separation of concerns
+
 Responsive design with Bootstrap 5
+
 API documentation with Swagger
+
 Automated database migrations
+
 Caching for improved performance
 
 🛠️ Installation
 Prerequisites
 .NET 7/8 SDK
+
 Node.js 18+
+
 SQL Server 2019+
+
 Angular CLI 19+
+
 Visual Studio 2022 (recommended) or VS Code
 
 Backend Setup
@@ -57,6 +93,7 @@ cd HospitalRoster.API
 Configure the database:
 
 Update connection string in appsettings.json
+
 json
 Copy
 "ConnectionStrings": {
@@ -153,15 +190,16 @@ Create your feature branch (git checkout -b feature/AmazingFeature)
 Commit your changes (git commit -m 'Add some amazing feature')
 
 Push to the branch (git push origin feature/AmazingFeature)
+
 Open a Pull Request
 
 📄 License
 Distributed under the MIT License. See LICENSE for more information.
 
 ✉️ Contact
-Sudheer Nayak - sudheernayak1605@gmail.com
+Sudheer Nayak- sudhirnayak1605@gmail.com
 
-Project Link: https://github.com/SudheerNayak/hospitalroster
+Project Link: https://github.com/SudheerNayak/HospitalRoster
 
 🎉 Acknowledgments
 Bootstrap for UI components
