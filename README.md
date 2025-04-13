@@ -1,5 +1,5 @@
 # HospitalRoster
-📝 Description
+
 The Hospital Roster Application is a comprehensive scheduling system designed for healthcare facilities to manage staff shifts, department assignments, and work schedules efficiently. This full-stack application features:
 
 .NET Core 7/8 API backend with JWT authentication
